@@ -1,4 +1,4 @@
-# SMOTE_SSO
+# SMOTE-SSO
 
 This is an hybrid implementation of oversampling method Synthetic Minority Oversampling Technique (SMOTE) and undersampling method called Sample Subset Optimization and Particle Swarm Optimization (SSO-PSO).
 This is a hybrid intelligent sampling technique to tackle class-imbalance in real world datasets. To know more about it please follow the link: https://link.springer.com/chapter/10.1007/978-3-030-16660-1_74.
