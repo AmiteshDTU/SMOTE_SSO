@@ -7,9 +7,13 @@ If you are including our work in your research please cite our paper as:
 
 [1] Susan, Seba, and Amitesh Kumar. "Hybrid of intelligent minority oversampling and PSO-based intelligent majority undersampling for learning from imbalanced datasets." In International Conference on Intelligent Systems Design and Applications, pp. 760-769. Springer, Cham, 2018.
 
+For reading free PDF, you can get it at: https://www.researchgate.net/publication/332410057_Hybrid_of_Intelligent_Minority_Oversampling_and_PSO-Based_Intelligent_Majority_Undersampling_for_Learning_from_Imbalanced_Datasets
+
 This technique is seen as solution to imbalanced data problem. To know more about imbalanced data problem, please follow this link: https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12298. The citation of this paper is:
 
 [2] Susan, Seba, and Amitesh Kumar. "The balancing trick: Optimized sampling of imbalanced datasets—A brief survey of the recent State of the Art." Engineering Reports 3, no. 4 (2021): e12298.
+
+For reading free PDF, you can get it at: https://www.researchgate.net/publication/344781218_The_balancing_trick_Optimized_sampling_of_imbalanced_datasets-A_brief_survey_of_the_recent_State_of_the_Art
 
 Important !!! :
 
